@@ -1,0 +1,94 @@
+enhancement
+feature:add data
+feature:aggregations
+feature:alerting
+feature:anomaly detection
+feature:beats-cm
+feature:ccr
+feature:ci
+feature:config export
+feature:configuration
+feature:console
+feature:coordinatione map
+feature:courier
+feature:cross cluster search
+feature:csp
+feature:dashboard
+feature:data frames
+feature:data table
+feature:dev tools
+feature:discover
+feature:ecs
+featureelasticcharts
+feature:elasticsearch
+featureembedding
+feature:eui
+feature:expressionlanguage
+feature:fieldformatters
+feature:file data viz
+feature:file upload
+feature:filters
+feature:gauge vis
+feature:graph
+feature:heatmap
+feature:highlight
+feature:home
+feature:ilm
+feature:index management
+feature:index patterns
+feature:infra ui
+feature:input control
+feature:inspector
+feature:integrations-manager
+feature:kibana management
+feature:kql
+feature:lens
+feature:license
+feature:logs ui
+feature:logstash pipelines
+feature:markdown
+feature:metricvis
+feature:ml-result
+feature:new editor
+feature:new feature
+feature:new platform
+feature:new vis
+feature:np migration
+feature:pie chart
+feature:plugins
+feature:profiler
+feature:query bar
+feature:region map
+feature:reporting
+feature:rest
+feature:rollups
+feature:saved objects
+feature:scripted fileds
+feature:search profiler
+feature:security/authentication
+feature:security/authorization
+feature:security/feature controls
+feature:security/spaces
+feature:sharingurls
+feature:snapshot and restore
+feature:tagcloud
+feature:task manager
+feature:telemetry
+feature:timelion
+feature:timepicker
+feature:tsvb
+feature:upgrade assistant
+feature:uptime
+feature:user and roles
+feature:vega
+feature:vis editor
+feature:vis loader
+feature:vislib
+feature:visualizations
+feature:watcher
+feature:xpack_main
+feature:xyaxis
+performance
+release_note:enhancement
+team:security
+usability
